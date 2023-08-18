@@ -42,3 +42,10 @@ kaina integer,
 miestas text);"""
 
 c.execute(query)
+
+x=0
+
+for a in range(10):
+
+    x += 1
+    print(x)
