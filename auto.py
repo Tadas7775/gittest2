@@ -50,3 +50,13 @@ for a in range(10):
     x += 1
     print(x)
     print("text")
+
+
+"""
+git init
+git add .\auto.py   
+git commit -m "pridejom for skaicius"
+git checkout -b new-master
+git branch -M new-master master
+
+"""
